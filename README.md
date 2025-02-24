@@ -30,7 +30,7 @@ This is a web application built using **Flask** that predicts whether a loan app
 │   ├── about_page.html    # About page template
 │   ├── contact_page.html  # Contact page template
 │   ├── predict.html       # Prediction form
-│   ├── index.html         # Display prediction result
+│  
 │
 ├── app.py                 # Main Flask application
 ├── schema.sql             # SQL schema for creating database tables
@@ -55,7 +55,7 @@ To run this application, you need Python installed on your machine.
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/loan_prediction.git
+git clone https://github.com/Duvvuridurgaprasad28/loan_prediction.git
 cd loan_prediction
 ```
 
